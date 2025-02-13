@@ -4,6 +4,8 @@
 
 This project analyzes IT expenditure across different business areas, IT areas, and cost elements. It provides insights into total actual expenditures, forecasts, and plan variances. The analysis includes country-wise expenditure comparisons and trends over different months.
 
+![Dashboard](https://github.com/user-attachments/assets/44191f1d-a89e-4795-aa0c-c3db4fb53e47)
+
 ## Key Metrics
 
 - Total Actual: 555.7M
